@@ -1,1 +1,35 @@
 /*  your css code here. If applicable */
+* {
+  background-color: skyblue;
+}
+
+.para1{
+  background-color: black;
+	color: white
+}
+
+.para4 {
+	color: red;
+}
+
+
+
+ul li:nth-child(1) {
+  background-color: white;
+}
+
+ul li:nth-child(2) {
+  background-color: gray;
+}
+
+ul li:nth-child(3) {
+  background-color: pink;
+}
+
+ul li:nth-child(4) {
+  background-color: grey;
+}
+
+ul li:nth-child(5) {
+  background-color: white;
+}
